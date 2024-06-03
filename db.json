@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Glock-18",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/0/06/CS2_Glock-18_Inventory.png/revision/latest?cb=20230928174842",
+      "image": "./counterguns/CS2_AK-47_Inventory.png",
       "price": 200,
       "damage": 28,
       "description": "Semi-automatic pistol with high rate of fire",
@@ -45,7 +45,7 @@
     {
       "id": 4,
       "name": "AK-47",
-      "image": "",
+      "image": "./counterguns/CS2_AK-47_Inventory.png",
       "price": 2700,
       "damage": 36,
       "description": "Standard T-side rifle can 1 shot headshot",
