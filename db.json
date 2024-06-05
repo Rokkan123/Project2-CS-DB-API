@@ -12,7 +12,8 @@
       "run_speed": 240,
       "magazine_size": 20,
       "max_ammo": 120,
-      "team": "T"
+      "team": "T",
+      "video":""
     },
     {
       "id": 2,
@@ -26,7 +27,8 @@
       "run_speed": 230,
       "magazine_size": 13,
       "max_ammo": 62,
-      "team": "CT"
+      "team": "CT",
+      "video":""
     },
     {
       "id": 3,
@@ -40,7 +42,8 @@
       "run_speed": 240,
       "magazine_size": 12,
       "max_ammo": 24,
-      "team": "CT"
+      "team": "CT",
+      "video":""
     },
     {
       "id": 4,
@@ -54,7 +57,8 @@
       "run_speed": 215,
       "magazine_size": 30,
       "max_ammo": 90,
-      "team": "T"
+      "team": "T",
+      "video":""
     },
     {
       "id": 5,
@@ -68,7 +72,8 @@
       "run_speed": 240,
       "magazine_size": 12,
       "max_ammo": 24,
-      "team": "CT"
+      "team": "CT",
+      "video":""
     },
     {
       "id": 6,
@@ -82,7 +87,8 @@
       "run_speed": 200,
       "magazine_size": 5,
       "max_ammo": 30,
-      "team": "BOTH"
+      "team": "BOTH",
+      "video":"https://www.youtube.com/watch?v=cjOVXdarUTs&ab_channel=ESEA"
     },
     {
       "id": 7,
@@ -96,7 +102,8 @@
       "run_speed": 240,
       "magazine_size": 12,
       "max_ammo": 12,
-      "team": "BOTH"
+      "team": "BOTH",
+      "video":""
     },
     {
       "id": 8,
@@ -110,7 +117,8 @@
       "run_speed": 230,
       "magazine_size": 7,
       "max_ammo": 35,
-      "team": "BOTH"
+      "team": "BOTH",
+      "video":""
     },
     {
       "id": 9,
@@ -124,7 +132,8 @@
       "run_speed": 240,
       "magazine_size": 30,
       "max_ammo": 120,
-      "team": "BOTH"
+      "team": "BOTH",
+      "video":""
     },
     {
       "id": 10,
@@ -138,7 +147,8 @@
       "run_speed": 220,
       "magazine_size": 25,
       "max_ammo": 90,
-      "team": "CT"
+      "team": "CT",
+      "video":""
     },
     {
       "id": 11,
@@ -152,7 +162,8 @@
       "run_speed": 240,
       "magazine_size": 20,
       "max_ammo": 100,
-      "team": "CT"
+      "team": "CT",
+      "video":""
     },
     {
       "id": 12,
@@ -166,7 +177,8 @@
       "run_speed": 210,
       "magazine_size": 20,
       "max_ammo": 90,
-      "team": "T"
+      "team": "T",
+      "video":""
     },
     {
       "id": 13,
@@ -180,7 +192,8 @@
       "run_speed": 215,
       "magazine_size": 35,
       "max_ammo": 90,
-      "team": "T"
+      "team": "T",
+      "video":""
     },
 
     {
@@ -195,7 +208,8 @@
       "run_speed": 195,
       "magazine_size": 100,
       "max_ammo": 200,
-      "team": "BOTH"
+      "team": "BOTH",
+      "video":""
     },
     {
       "id": 15,
@@ -209,7 +223,8 @@
       "run_speed": 225,
       "magazine_size": 30,
       "max_ammo": 90,
-      "team": "CT"
+      "team": "CT",
+      "video":""
     },
     {
       "id": 16,
@@ -223,7 +238,8 @@
       "run_speed": 225,
       "magazine_size": 20,
       "max_ammo": 80,
-      "team": "CT"
+      "team": "CT",
+      "video":""
     },
     {
       "id": 17,
@@ -237,7 +253,8 @@
       "run_speed": 240,
       "magazine_size": 30,
       "max_ammo": 100,
-      "team": "T"
+      "team": "T",
+      "video":""
     },
     {
       "id": 18,
@@ -251,7 +268,8 @@
       "run_speed": 225,
       "magazine_size": 5,
       "max_ammo": 32,
-      "team": "CT"
+      "team": "CT",
+      "video":""
     },
     {
       "id": 19,
@@ -265,7 +283,8 @@
       "run_speed": 220,
       "magazine_size": 30,
       "max_ammo": 120,
-      "team": "BOTH"
+      "team": "BOTH",
+      "video":""
     },
     {
       "id": 20,
@@ -279,7 +298,8 @@
       "run_speed": 240,
       "magazine_size": 30,
       "max_ammo": 120,
-      "team": "CT"
+      "team": "CT",
+      "video":""
     },
     {
       "id": 21,
@@ -293,7 +313,8 @@
       "run_speed": 150,
       "magazine_size": 150,
       "max_ammo": 300,
-      "team": "BOTH"
+      "team": "BOTH",
+      "video":""
     },
     {
       "id": 22,
@@ -307,7 +328,8 @@
       "run_speed": 220,
       "magazine_size": 8,
       "max_ammo": 32,
-      "team": "BOTH"
+      "team": "BOTH",
+      "video":""
     },
     {
       "id": 23,
@@ -321,7 +343,8 @@
       "run_speed": 240,
       "magazine_size": 13,
       "max_ammo": 26,
-      "team": "BOTH"
+      "team": "BOTH",
+      "video":""
     },
     {
       "id": 24,
@@ -335,7 +358,8 @@
       "run_speed": 230,
       "magazine_size": 50,
       "max_ammo": 100,
-      "team": "BOTH"
+      "team": "BOTH",
+      "video":""
     },
     {
       "id": 25,
@@ -349,7 +373,8 @@
       "run_speed": 240,
       "magazine_size": 64,
       "max_ammo": 120,
-      "team": "BOTH"
+      "team": "BOTH",
+      "video":""
     },
     {
       "id": 26,
@@ -363,7 +388,8 @@
       "run_speed": 210,
       "magazine_size": 7,
       "max_ammo": 32,
-      "team": "T"
+      "team": "T",
+      "video":""
     },
     {
       "id": 27,
@@ -377,7 +403,8 @@
       "run_speed": 215,
       "magazine_size": 20,
       "max_ammo": 90,
-      "team": "CT"
+      "team": "CT",
+      "video":""
     },
     {
       "id": 28,
@@ -391,7 +418,8 @@
       "run_speed": 210,
       "magazine_size": 30,
       "max_ammo": 90,
-      "team": "T"
+      "team": "T",
+      "video":""
     },
 
     {
@@ -406,7 +434,8 @@
       "run_speed": 230,
       "magazine_size": 10,
       "max_ammo": 90,
-      "team": "BOTH"
+      "team": "BOTH",
+      "video":""
     },
     {
       "id": 30,
