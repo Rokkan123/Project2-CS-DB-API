@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Glock-18",
-      "image": "/counterguns/CS2_AK-47_Inventory.png",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/9/99/CSGO_Glock-18_Inventory.png/",
       "price": 200,
       "damage": 28,
       "description": "Semi-automatic pistol with high rate of fire",
