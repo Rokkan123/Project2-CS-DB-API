@@ -18,7 +18,7 @@
     {
       "id": 2,
       "name": "P2000",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/6/63/CS2_P2000_Inventory.png/revision/latest?cb=20230928174758",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/6/63/CS2_P2000_Inventory.png/",
       "price": 200,
       "damage": 35,
       "description": "Accurate pistol with moderate damage",
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "name": "USP-S",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/b/bb/CS2_USP-S_Inventory.png/revision/latest?cb=20230928174826",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/b/bb/CS2_USP-S_Inventory.png/",
       "price": 200,
       "damage": 35,
       "description": "Silenced pistol with high accuracy",
@@ -48,7 +48,7 @@
     {
       "id": 4,
       "name": "AK-47",
-      "image": "./counterguns/CS2_AK-47_Inventory.png",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/0/0c/CS2_AK-47_Inventory.png/",
       "price": 2700,
       "damage": 36,
       "description": "Standard T-side rifle can 1 shot headshot",
@@ -63,7 +63,7 @@
     {
       "id": 5,
       "name": "AUG",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/0/0a/CS2_AUG_Inventory.png/revision/latest?cb=20230928175337",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/0/0a/CS2_AUG_Inventory.png/",
       "price": 3300,
       "damage": 28,
       "description": "Scoped CT-side rifle good for long range engagements",
@@ -78,10 +78,10 @@
     {
       "id": 6,
       "name": "AWP",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/5/50/CS2_AWP_Inventory.png/revision/latest?cb=20230928175407",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/5/50/CS2_AWP_Inventory.png/",
       "price": 4750,
       "damage": 115,
-      "description": "High-powered sniper rifle",
+      "description": "High-powered sniper rifle capable of one-shotting anyone at any distance",
       "kill_reward": 100,
       "rate_of_fire": 41,
       "run_speed": 200,
@@ -93,7 +93,7 @@
     {
       "id": 7,
       "name": "CZ75 AUTO",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/9/90/CS2_CZ75-Auto_Inventory.png/revision/latest?cb=20230928174946",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/9/90/CS2_CZ75-Auto_Inventory.png/",
       "price": 500,
       "damage": 31,
       "description": "Fully-automatic pistol",
@@ -103,12 +103,12 @@
       "magazine_size": 12,
       "max_ammo": 12,
       "team": "BOTH",
-      "video":""
+      "video":"https://www.youtube.com/watch?v=NaAZacSoDHE"
     },
     {
       "id": 8,
       "name": "DESERT EAGLE",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/1/1e/CS2_Desert_Eagle_Inventory.png/revision/latest?cb=20230928175016",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/1/1e/CS2_Desert_Eagle_Inventory.png/",
       "price": 700,
       "damage": 53,
       "description": "Know as the Deagle High caliber pistol that can One-shot Headshot Armored Opponents",
@@ -118,12 +118,12 @@
       "magazine_size": 7,
       "max_ammo": 35,
       "team": "BOTH",
-      "video":""
+      "video":"https://www.youtube.com/watch?v=dg6TQy6pGfs"
     },
     {
       "id": 9,
       "name": "DUAL BARETTAS",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/3/3d/CS2_Dual_Berettas_Inventory.png/revision/latest?cb=20230928175010",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/3/3d/CS2_Dual_Berettas_Inventory.png/",
       "price": 300,
       "damage": 38,
       "description": "Dual pistols used on CT-side Pistol round to rain a hail of bullets on the T-side",
@@ -138,7 +138,7 @@
     {
       "id": 10,
       "name": "FAMAS",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/0/08/CS2_FAMAS_Inventory.png/revision/latest?cb=20230928175245",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/0/08/CS2_FAMAS_Inventory.png/",
       "price": 2250,
       "damage": 30,
       "description": "cheap assault rifle with burst fire when one can't afford a M4",
@@ -148,12 +148,12 @@
       "magazine_size": 25,
       "max_ammo": 90,
       "team": "CT",
-      "video":""
+      "video":"https://youtu.be/ipNuMUIqPGo"
     },
     {
       "id": 11,
       "name": "FIVE-SEVEN",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/3/34/CS2_Five-SeveN_Inventory.png/revision/latest?cb=20230928174923",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/3/34/CS2_Five-SeveN_Inventory.png/",
       "price": 500,
       "damage": 31,
       "description": "CT Semi-automatic pistol",
@@ -168,7 +168,7 @@
     {
       "id": 12,
       "name": "G3SG1",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/e/ec/CS2_G3SG1_Inventory.png/revision/latest?cb=20230928175423",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/e/ec/CS2_G3SG1_Inventory.png/",
       "price": 5000,
       "damage": 80,
       "description": "T-side auto sniper rifle known to be used by noobs as well as the SCAR-20",
@@ -183,7 +183,7 @@
     {
       "id": 13,
       "name": "GALIL AR",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/0/0a/CS2_Galil_AR_Inventory.png/revision/latest?cb=20230928175301",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/0/0a/CS2_Galil_AR_Inventory.png/",
       "price": 1800,
       "damage": 30,
       "description": "Economical T side assault rifle",
@@ -199,7 +199,7 @@
     {
       "id": 14,
       "name": "M249",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/7/79/CS2_M249_Inventory.png/revision/latest?cb=20230928175525",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/7/79/CS2_M249_Inventory.png/",
       "price": 5200,
       "damage": 32,
       "description": "Heavy machine gun. Most expensive gun in the game",
@@ -214,7 +214,7 @@
     {
       "id": 15,
       "name": "M4A4",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/7/77/CS2_M4A4_Inventory.png/revision/latest?cb=20230928175315",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/7/77/CS2_M4A4_Inventory.png/",
       "price": 3000,
       "damage": 33,
       "description": "Counter-Terrorist default rifle",
@@ -229,7 +229,7 @@
     {
       "id": 16,
       "name": "M4A1-S",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/4/4d/CS2_M4A1-S_Inventory.png/revision/latest?cb=20230928175323",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/4/4d/CS2_M4A1-S_Inventory.png/",
       "price": 2900,
       "damage": 38,
       "description": "Counter-Terrorist default rifle has a silencer and less bullets in the mag",
@@ -244,7 +244,7 @@
     {
       "id": 17,
       "name": "MAC-10",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/f/f0/CS2_MAC-10_Inventory.png/revision/latest?cb=20230928175109",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/f/f0/CS2_MAC-10_Inventory.png/",
       "price": 1050,
       "damage": 29,
       "description": "Cheap SMG for the T-side. Mostly used dearing the second Round after a pistol win or for people that don't know how to ECO",
@@ -259,7 +259,7 @@
     {
       "id": 18,
       "name": "MAG-7",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/a/ac/CS2_MAG-7_Inventory.png/revision/latest?cb=20230928175511",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/a/ac/CS2_MAG-7_Inventory.png/",
       "price": 1300,
       "damage": 30,
       "description": "CT-side shotgun each pellet does 30 and it has 6 pellets. Meaning it can Oneshot if all pellets land",
@@ -274,7 +274,7 @@
     {
       "id": 19,
       "name": "MP7",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/e/ee/CS2_MP7_Inventory.png/revision/latest?cb=20230928175150",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/e/ee/CS2_MP7_Inventory.png/",
       "price": 1700,
       "damage": 29,
       "description": "Pricey SMG better than the mac and the MP9, but is expensive",
@@ -289,7 +289,7 @@
     {
       "id": 20,
       "name": "MP9",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/5/5e/CS2_MP9_Inventory.png/revision/latest?cb=20230928175101",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/5/5e/CS2_MP9_Inventory.png/",
       "price": 1250,
       "damage": 26,
       "description": "Cheap CT-side SMG",
@@ -304,7 +304,7 @@
     {
       "id": 21,
       "name": "NEGEV",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/6/61/CS2_Negev_Inventory.png/revision/latest?cb=20230928175535",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/6/61/CS2_Negev_Inventory.png/",
       "price": 1700,
       "damage": 35,
       "description": "Heavy machine gun. Slows player down when firing. Works oppisite to all guns in the game becomes a lazer beam as it shoots.",
@@ -319,7 +319,7 @@
     {
       "id": 22,
       "name": "NOVA",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/b/b0/CS2_Nova_Inventory.png/revision/latest?cb=20230928175457",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/b/b0/CS2_Nova_Inventory.png/",
       "price": 1050,
       "damage": 26,
       "description": "Cheap shotgun shoots 9 pellets. Can be a sniper rifle that one shots or just does 26 and you die",
@@ -334,7 +334,7 @@
     {
       "id": 23,
       "name": "P250",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/3/3b/CS2_P250_Inventory.png/revision/latest?cb=20230928174907",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/3/3b/CS2_P250_Inventory.png/",
       "price": 300,
       "damage": 38,
       "description": "Cheap pistol used when you don't want to use the starter pistols",
@@ -349,7 +349,7 @@
     {
       "id": 24,
       "name": "P90",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/c/ce/CS2_P90_Inventory.png/revision/latest?cb=20230928175210",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/c/ce/CS2_P90_Inventory.png/",
       "price": 2350,
       "damage": 25,
       "description": "SMG known as a beginner weapon",
@@ -364,7 +364,7 @@
     {
       "id": 25,
       "name": "PP-BIZON",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/2/2e/CS2_PP-Bizon_Inventory.png/revision/latest?cb=20230928175144",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/2/2e/CS2_PP-Bizon_Inventory.png/",
       "price": 1400,
       "damage": 27,
       "description": "SMG weapon of mass destruction DESTROYS unarmored Enemies, but does almost no damage if they have armor",
@@ -379,7 +379,7 @@
     {
       "id": 26,
       "name": "SAWED-OFF",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/4/47/CS2_Sawed-Off_Inventory.png/revision/latest?cb=20230928175519",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/4/47/CS2_Sawed-Off_Inventory.png/",
       "price": 1100,
       "damage": 32,
       "description": "Cheap T-Side shotgun",
@@ -394,7 +394,7 @@
     {
       "id": 27,
       "name": "SCAR-20",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/2/27/CS2_SCAR-20_Inventory.png/revision/latest?cb=20230928175415",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/2/27/CS2_SCAR-20_Inventory.png/",
       "price": 5000,
       "damage": 80,
       "description": "Auto CT-Side sniper rifle known to be used by noobs as well as the G3SG1",
@@ -409,7 +409,7 @@
     {
       "id": 28,
       "name": "SG 553",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/c/c1/CS2_SG_553_Inventory.png/revision/latest?cb=20230928175346",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/c/c1/CS2_SG_553_Inventory.png/",
       "price": 3000,
       "damage": 30,
       "description": "Terrorist scoped rifle that became very disgusting for 3 months",
@@ -425,7 +425,7 @@
     {
       "id": 29,
       "name": "SSG 08",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/4/44/CS2_SSG_08_Inventory.png/revision/latest?cb=20230928175401",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/4/44/CS2_SSG_08_Inventory.png/revision/",
       "price": 1700,
       "damage": 88,
       "description": "Bolt-action sniper rifle used quite a bit by people trying to make a name for themselves by going scout only",
@@ -440,7 +440,7 @@
     {
       "id": 30,
       "name": "TEC-9",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/9/92/CS2_Tec-9_Inventory.png/revision/latest?cb=20230928174938",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/9/92/CS2_Tec-9_Inventory.png/",
       "price": 500,
       "damage": 33,
       "description": "Cheap T-side pistol that does well while running and gunning",
@@ -454,7 +454,7 @@
     {
       "id": 31,
       "name": "UMP-45",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/d/db/CS2_UMP-45_Inventory.png/revision/latest?cb=20230928175159",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/d/db/CS2_UMP-45_Inventory.png/",
       "price": 1200,
       "damage": 35,
       "description": "Slowest firing SMG that used to be compared to a rifle",
@@ -468,7 +468,7 @@
     {
       "id": 32,
       "name": "XM1014",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/c/ce/CS2_XM1014_Inventory.png/revision/latest?cb=20230928175503",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/c/ce/CS2_XM1014_Inventory.png/",
       "price": 2000,
       "damage": 20,
       "description": "Auto firing shotgun also known as the auto shotty",
@@ -482,7 +482,7 @@
     {
       "id": 33,
       "name": "MP5-SD",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/f/f8/CS2_MP5-SD_Inventory.png/revision/latest?cb=20230928175218",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/f/f8/CS2_MP5-SD_Inventory.png/",
       "price": 1500,
       "damage": 27,
       "description": "Pricey silenced SMG alternate to the MP7 hits like cotton candy",
@@ -496,7 +496,7 @@
     {
       "id": 34,
       "name": "R8 Revolver",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/9/94/CS2_R8_Revolver_Inventory.png/revision/latest?cb=20230928175031",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/9/94/CS2_R8_Revolver_Inventory.png/",
       "price": 600,
       "damage": 86,
       "description": "The most controversial gun nerfed to become a lesser being with an alt fire fan the hammer",
@@ -510,7 +510,7 @@
     {
       "id": 35,
       "name": "Knife",
-      "image": "https://static.wikia.nocookie.net/cswikia/images/9/9c/Cs2-knife-m9-bayonet-stock.png/revision/latest?cb=20230928180035",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/9/9c/Cs2-knife-m9-bayonet-stock.png/",
       "price": 0,
       "damage": 34,
       "description": "You run faster with your knife out. Backstabs instakill",
